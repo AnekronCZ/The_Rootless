@@ -52,13 +52,17 @@ GNU General Public License, version 2
 
 This work is licensed under the GNU General Public License, version 2. To view a copy of this license, visit <https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html>.
 
-Copyright by Paulomat4, Chaos Rider
+Copyright by Paulomat4, Chaos Rider (The Ravagers add-on)
 
  * Every file inside images/units/elves/
 
 Copyright (C) 2006-2008 by Benoit Timbert (Noyga) and others
 
  * Every file inside images/units/trolls/
+
+By The_Gnat (Reign of the Lords add-on)
+
+ * Every file inside images/units/ogres/
 
 
 
