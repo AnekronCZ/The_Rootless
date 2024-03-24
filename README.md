@@ -12,7 +12,7 @@ You can get the latest version of the campaign in-game. Click on the Add-ons but
 
 ## Notice
 
-As of December 2023, the main branch now only supports Wesnoth 1.17 / 1.18. To download the Wesnoth 1.16 version of the game, use the legacy branch.
+As of March 2023, the main branch now only supports Wesnoth 1.18. To download the Wesnoth 1.16 version of the game, use the legacy branch.
 
 ## Links
 
