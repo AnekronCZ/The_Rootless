@@ -29,6 +29,11 @@ Orcish Veteran unit sprites:
  * images/units/orcs/old-veteran-lead-1.png
  * images/units/orcs/old-veteran-lead-2.png
 
+ Troll Shaman & Sage sprites
+
+ * Every file inside images/units/trolls/
+ * the original Troll Shaman sprites that served as a base were taken from the old Extended Era and made by Benoit Timbert (Noyga) and others, according to the credits
+
 Misc:
 
  * images/misc/wmg-flag-1.png
@@ -39,7 +44,7 @@ Misc:
 
 Copyright (C) 2023 by 1/2 Kordov
 
- * images/portraits/vudhar.png
+ * images/portraits/vudhar.webp
 
 Copyright (C) 2022 by Vyncyn
 
@@ -55,10 +60,6 @@ This work is licensed under the GNU General Public License, version 2. To view a
 Copyright by Paulomat4, Chaos Rider (The Ravagers add-on)
 
  * Every file inside images/units/elves/
-
-Copyright (C) 2006-2008 by Benoit Timbert (Noyga) and others
-
- * Every file inside images/units/trolls/
 
 By The_Gnat (Reign of the Lords add-on)
 
